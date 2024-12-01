@@ -6,7 +6,23 @@
 - 📫 You can reach me via email at [karl.naba@bu.edu](mailto:karl.naba@bu.edu) or connect on [LinkedIn](https://www.linkedin.com/in/karl-naba/).
 
 🔧 My Skills
-[![My Skills](https://skillicons.dev/icons?i=arduino,azure,bash,bootstrap,c,cs,cpp,cloudflare,css,discord,django,docker,dotnet,elasticsearch,emacs,express,fastapi,flask,gamemakerstudio,gcp,git,github,gmail,html,java,js,linkedin,matlab,mongodb,nextjs,mysql,nodejs,npm,powershell,py,pytorch,raspberrypi,react,spring,sqlite,tensorflow,ts,visualstudio,vscode,,wasm)](https://skillicons.dev)
+#### Programming Languages
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,cs,java,js,py,ts,html,css)](https://skillicons.dev)
+
+#### Frameworks & Libraries
+[![My Skills](https://skillicons.dev/icons?i=react,nextjs,spring,django,flask,express,bootstrap,fastapi,pytorch,tensorflow)](https://skillicons.dev)
+
+#### Tools & Platforms
+[![My Skills](https://skillicons.dev/icons?i=git,github,visualstudio,vscode,npm,docker,azure,gcp)](https://skillicons.dev)
+
+#### Databases
+[![My Skills](https://skillicons.dev/icons?i=mysql,sqlite,mongodb)](https://skillicons.dev)
+
+#### IoT & Hardware
+[![My Skills](https://skillicons.dev/icons?i=arduino,raspberrypi,wasm)](https://skillicons.dev)
+
+#### Others
+[![My Skills](https://skillicons.dev/icons?i=discord,gmail,cloudflare)](https://skillicons.dev)
 
 <!--
 **Karlnaba/Karlnaba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
