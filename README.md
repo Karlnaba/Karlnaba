@@ -5,7 +5,7 @@
 - 😄 Pronouns: he/him  
 - 📫 You can reach me via email at [karl.naba@bu.edu](mailto:karl.naba@bu.edu) or connect on [LinkedIn](https://www.linkedin.com/in/karl-naba/).
 
-[![My Skills](https://skillicons.dev/iconsarduino,was,azure,bash,bootstrap,c,cs,cpp,cloudflare,CSS,discord,django,docker,dotnet,elasticsearch,emacs,express,fastapi,flask,gamemakerstudio,gcp,git,github,gmail,html,java,js,linkedin,matlab,mongodb,nextjs,mysql,nodejs,npm,powershell,py,pytorch,raspberrypi,react,spring,sqlite,tensorflow,ts,visualstudio,vscode,,wasm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=arduino,was,azure,bash,bootstrap,c,cs,cpp,cloudflare,CSS,discord,django,docker,dotnet,elasticsearch,emacs,express,fastapi,flask,gamemakerstudio,gcp,git,github,gmail,html,java,js,linkedin,matlab,mongodb,nextjs,mysql,nodejs,npm,powershell,py,pytorch,raspberrypi,react,spring,sqlite,tensorflow,ts,visualstudio,vscode,,wasm)](https://skillicons.dev)
 
 <!--
 **Karlnaba/Karlnaba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
